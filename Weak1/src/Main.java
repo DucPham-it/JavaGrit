@@ -29,6 +29,6 @@ public class Main {
                 System.out.printf("%.2f ",(double) arr[i]);
             }
         }
-
+        sc.close();
     }
 }
